@@ -35,7 +35,7 @@ def get_packets(context):
         EntityVelocityPacket,
         UpdateHealthPacket,
         CombatEventPacket,
-        ExplosionPacket,
+        # ExplosionPacket,
         SpawnObjectPacket,
         BlockChangePacket,
         MultiBlockChangePacket,
